@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">e-galaxy</string>
+    <string name="search_text">Milky way ...</string>
+    <string name="add_bookmark">add to bookmark</string>
+    <string name="share_galaxy">Share to galaxy</string>
+    <string name="delete_bookmark">remove to bookmark</string>
+    <string name="empty_bookmark">Tidak Ada List Bookmark</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_profile">Profile</string>
+    <string name="email_author">117edwin@gmail.com</string>
+    <string name="name_author">Edwin Farid</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
